@@ -1,6 +1,6 @@
 # Customer Churn Analysis Dashboard 📊
 
-![Dashboard Screenshot](Snapshort-of-Dashboard.jpg)
+![Dashboard Screenshot](Snapshort-of-Dashboard.png)
 
 ## Overview ✨
 
