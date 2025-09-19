@@ -1,6 +1,5 @@
 # Customer Churn Analysis Dashboard 📊
 
-![Dashboard Screenshot]
 <img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/936180b4-e4d6-463b-bf7b-3f7731944c16" />
 
 
