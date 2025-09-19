@@ -1,6 +1,8 @@
 # Customer Churn Analysis Dashboard 📊
 
-![Dashboard Screenshot](Snapshort of Dashboard.png)
+![Dashboard Screenshot]
+<img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/936180b4-e4d6-463b-bf7b-3f7731944c16" />
+
 
 ## Overview ✨
 
@@ -74,5 +76,18 @@ Each row represents a unique customer and their engagement/attrition status.
 
 ---
 
-## File Structure 🗂️
+## Author 🙋
+
+- **Anshuman Sharma**
+
+---
+
+## License 📄
+
+Feel free to use and adapt for educational or non-commercial projects. For commercial use, please contact the author.
+
+---
+
+**Questions or collaboration? Open an issue or connect via profile.** 🤝
+
 
